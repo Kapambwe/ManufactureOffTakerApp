@@ -1,0 +1,7 @@
+‹,€{
+  "Services": {
+    "UseMocks": true,
+    "ApiBaseUrl": "https://localhost:7040/"
+  }
+}
+
